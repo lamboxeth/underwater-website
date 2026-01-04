@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Underwater World - Animated Ocean</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Background Video Container -->
+    <div class="background-container">
+        <video 
+            class="background-video" 
+            id="backgroundVideo"
+            autoplay 
+            muted 
+            loop 
+            playsinline
+            preload="auto"
+            poster="underwater-background.jpg">
+            <source src="underwater-background.mp4" type="video/mp4">
+            <source src="underwater-background.webm" type="video/webm">
+            <!-- Fallback image if video doesn't load -->
+            <img src="underwater-background.jpg" alt="Underwater Scene" class="background-fallback">
+        </video>
+        
+        <!-- Water Ripple Overlay -->
+        <div class="water-ripple"></div>
+        
+        <!-- Animated Marine Creatures -->
+        <div class="marine-creatures">
+            <!-- Turtles -->
+            <div class="creature turtle turtle-1">
+                <div class="turtle-body">
+                    <div class="turtle-shell"></div>
+                    <div class="turtle-head"></div>
+                    <div class="turtle-flipper flipper-front-left"></div>
+                    <div class="turtle-flipper flipper-front-right"></div>
+                    <div class="turtle-flipper flipper-back-left"></div>
+                    <div class="turtle-flipper flipper-back-right"></div>
+                </div>
+            </div>
+            
+            <div class="creature turtle turtle-2">
+                <div class="turtle-body">
+                    <div class="turtle-shell"></div>
+                    <div class="turtle-head"></div>
+                    <div class="turtle-flipper flipper-front-left"></div>
+                    <div class="turtle-flipper flipper-front-right"></div>
+                    <div class="turtle-flipper flipper-back-left"></div>
+                    <div class="turtle-flipper flipper-back-right"></div>
+                </div>
+            </div>
+            
+            <!-- Sharks -->
+            <div class="creature shark shark-1">
+                <div class="shark-body">
+                    <div class="shark-head"></div>
+                    <div class="shark-fin-top"></div>
+                    <div class="shark-fin-side"></div>
+                    <div class="shark-tail"></div>
+                </div>
+            </div>
+            
+            <div class="creature shark shark-2">
+                <div class="shark-body">
+                    <div class="shark-head"></div>
+                    <div class="shark-fin-top"></div>
+                    <div class="shark-fin-side"></div>
+                    <div class="shark-tail"></div>
+                </div>
+            </div>
+            
+            <!-- Scallops -->
+            <div class="creature scallop scallop-1">
+                <div class="scallop-shell">
+                    <div class="scallop-top"></div>
+                    <div class="scallop-bottom"></div>
+                </div>
+            </div>
+            
+            <div class="creature scallop scallop-2">
+                <div class="scallop-shell">
+                    <div class="scallop-top"></div>
+                    <div class="scallop-bottom"></div>
+                </div>
+            </div>
+            
+            <div class="creature scallop scallop-3">
+                <div class="scallop-shell">
+                    <div class="scallop-top"></div>
+                    <div class="scallop-bottom"></div>
+                </div>
+            </div>
+            
+            <!-- Fish -->
+            <div class="creature fish fish-1">
+                <div class="fish-body"></div>
+                <div class="fish-tail"></div>
+                <div class="fish-fin-top"></div>
+                <div class="fish-fin-bottom"></div>
+            </div>
+            
+            <div class="creature fish fish-2">
+                <div class="fish-body"></div>
+                <div class="fish-tail"></div>
+                <div class="fish-fin-top"></div>
+                <div class="fish-fin-bottom"></div>
+            </div>
+            
+            <div class="creature fish fish-3">
+                <div class="fish-body"></div>
+                <div class="fish-tail"></div>
+                <div class="fish-fin-top"></div>
+                <div class="fish-fin-bottom"></div>
+            </div>
+            
+            <div class="creature fish fish-4">
+                <div class="fish-body"></div>
+                <div class="fish-tail"></div>
+                <div class="fish-fin-top"></div>
+                <div class="fish-fin-bottom"></div>
+            </div>
+            
+            <div class="creature fish fish-5">
+                <div class="fish-body"></div>
+                <div class="fish-tail"></div>
+                <div class="fish-fin-top"></div>
+                <div class="fish-fin-bottom"></div>
+            </div>
+        </div>
+        
+        <!-- Bubbles -->
+        <div class="bubbles-container"></div>
+        
+        <!-- Light Rays -->
+        <div class="light-rays">
+            <div class="ray ray-1"></div>
+            <div class="ray ray-2"></div>
+            <div class="ray ray-3"></div>
+        </div>
+    </div>
+    
+    <!-- Content Overlay (optional) -->
+    <div class="content-overlay">
+        <h1 class="title">Underwater World</h1>
+        <p class="subtitle">Explore the Depths</p>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
+
