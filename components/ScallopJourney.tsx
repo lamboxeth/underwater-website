@@ -105,7 +105,7 @@ const events = [
     date: "Mar 31, 2025",
     title: "$200M Milestone Achieved",
     image: "/milestone-200m.jpg", 
-    description: "Scallop has crossed $200M in Total Supply and Collateral Deposits!",
+    description: "Scallop has crossed $200M in Total Supply and Collateral Deposits! A testament to our leading position on Sui.",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -113,7 +113,7 @@ const events = [
     date: "Apr 3, 2025",
     title: "$BEEG Airdrop",
     image: "/beeg-airdrop.jpg", 
-    description: "Scallop Airdrop of 200M $BEEG tokens sent to the top 1,000 veSCA holders!",
+    description: "Scallop Airdrop of 200M $BEEG tokens (2% supply) has been sent to the top 1,000 veSCA holders!",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -129,7 +129,7 @@ const events = [
     date: "Apr 30, 2025",
     title: "$5M Revenue Loyalty Program",
     image: "/loyalty-5m.jpg", 
-    description: "Crossed $5 Million in Total Revenue! Giving away $200,000 USD worth of sSCA.",
+    description: "Crossed $5 Million in Total Revenue! Giving away $200,000 USD worth of sSCA to loyal Scallopers.",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -161,7 +161,7 @@ const events = [
     date: "May 8, 2025",
     title: "Scallop x RNS Palau ID",
     image: "/palau-id.jpg", 
-    description: "Scallopers can now own the first on-chain legal ID for the Republic of Palau.",
+    description: "Scallopers can now own the first on-chain legal ID for the Republic of Palau through RNS.ID collaboration.",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -177,7 +177,7 @@ const events = [
     date: "May 13, 2025",
     title: "New Listing: Binance Alpha",
     image: "/binance-listing.jpg", 
-    description: "Scallop's $SCA is now listed on Binance Alpha!",
+    description: "Scallop's $SCA is now listed on Binance Alpha! The pre-listing token selection pool for promising crypto projects.",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -185,7 +185,7 @@ const events = [
     date: "May 16, 2025",
     title: "Binance Alpha Trading Comp",
     image: "/binance-trading.png", 
-    description: "Trade $SCA on Binance Alpha to win from 1,248,000 $SCA prize pool.",
+    description: "Trade $SCA on Binance Alpha to win from a pool of 1,248,000 $SCA and 60,000 $SUI.",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -193,7 +193,7 @@ const events = [
     date: "May 22, 2025",
     title: "veSCA Feature: Merge & Split",
     image: "/vesca-merge.jpg", 
-    description: "Greater flexibility for users to merge or split their veSCA across multiple keys.",
+    description: "Greater flexibility! Users can now merge multiple veSCA keys or split their veSCA across multiple keys.",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -209,7 +209,7 @@ const events = [
     date: "Jun 17, 2025",
     title: "Scallop x Backpack Campaign",
     image: "/backpack-campaign.png", 
-    description: "Partnered with Backpack Wallet! Share a $10,000 SCA prize pool.",
+    description: "Partnered with Backpack Wallet! Borrow $50 USD worth of assets to share a $10,000 SCA prize pool.",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -225,7 +225,7 @@ const events = [
     date: "Jul 7, 2025",
     title: "Scallop Security Update",
     image: "/image_3a6d86.png",
-    description: "MoveBit completed a security audit for VeSCA and SCoin components.",
+    description: "MoveBit has successfully completed a security audit for key components of the Scallop ecosystem, including VeSCA and SCoin.",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -233,7 +233,7 @@ const events = [
     date: "Jul 16, 2025",
     title: "2nd Anniversary Giveaway",
     image: "/anniversary-box.png", 
-    description: "Exclusive Anniversary Gift Boxes for supporters holding 100k+ veSCA.",
+    description: "Celebrating 2 years! Exclusive Anniversary Gift Boxes for loyal supporters holding at least 100,000 veSCA.",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -257,7 +257,7 @@ const events = [
     date: "Jul 31, 2025",
     title: "$6M Revenue Milestone",
     image: "/revenue-6m.png", 
-    description: "Crossed $6 Million in Total Revenue! $200k SCA giveaway.",
+    description: "Crossed $6 Million in Total Revenue! Celebrating by giving away $200,000 USD worth of $SCA to loyal users.",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -273,7 +273,7 @@ const events = [
     date: "Aug 8, 2025",
     title: "OKX Sui EcoHub Gasless",
     image: "/okx-gasless.png", 
-    description: "Zero gas fees for Borrow/Repay transactions using OKX Wallet.",
+    description: "Live on OKX Sui EcoHub! Limited time zero gas fees for Borrow and Repay transactions using OKX Wallet.",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -281,7 +281,7 @@ const events = [
     date: "Aug 14, 2025",
     title: "Integration: LI.FI Protocol",
     image: "/lifi-integration.png", 
-    description: "Swap and Bridge across 30+ chains within a single transaction.",
+    description: "LI.FI is now live on Scallop Bridge! Swap and Bridge assets across 30+ chains within a single transaction.",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -313,7 +313,7 @@ const events = [
     date: "Oct 6, 2025",
     title: "$500M Swap Volume",
     image: "/swap-500m.png", 
-    description: "Scallop has crossed $500 MILLION in Total Swap Volume!",
+    description: "Scallop has crossed $500 MILLION in Total Swap Volume! Providing seamless and secure swaps for the community.",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -321,7 +321,7 @@ const events = [
     date: "Oct 14, 2025",
     title: "Milestone: 50M $SCA Locked",
     image: "/locked-50m.png", 
-    description: "Over 40% of circulating supply is now locked in veSCA.",
+    description: "Over 40% of SCA's circulating supply (50 Million+) is now locked, reflecting the community's long-term trust.",
     link: "https://x.com/Scallop_io",
   },
   {
@@ -337,14 +337,14 @@ const events = [
     date: "Oct 27, 2025",
     title: "New Listing: Kraken",
     image: "/kraken-listing.jpg", 
-    description: "Major Milestone! $SCA listed on Kraken global exchange.",
+    description: "Major Milestone! $SCA is now listed on Kraken, one of the world's longest-standing crypto exchanges.",
     link: "https://x.com/Scallop_io",
   },
   {
     id: "mmt-integration",
     date: "Nov 4, 2025",
     title: "$MMT Integration",
-    image: "/mmt-integration.png",
+    image: "/mmt-integration.png", 
     description: "Momentum's $MMT token now verified on Scallop ecosystem.",
     link: "https://x.com/Scallop_io",
   },
@@ -441,8 +441,24 @@ export default function ScallopJourney() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
-          className="text-center mb-24 relative z-20"
+          className="text-center mb-24 relative z-20 flex flex-col items-center"
         >
+          {/* BRAND LOGO (Top) */}
+          <motion.div
+            animate={{ y: [0, -10, 0] }}
+            transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
+            className="mb-8"
+          >
+            <div className="relative w-40 h-40 md:w-60 md:h-60">
+              <Image 
+                src="/logo.png" 
+                alt="Scallop Logo" 
+                fill 
+                className="object-contain drop-shadow-[0_0_25px_rgba(34,211,238,0.4)]" 
+              />
+            </div>
+          </motion.div>
+
           <h2 className="text-white font-bold tracking-wide text-lg md:text-2xl mb-2 drop-shadow-md">
             Scallop Rewind 2025
           </h2>
@@ -473,7 +489,7 @@ export default function ScallopJourney() {
 
         </div>
 
-        {/* --- NEW YEAR GREETING SECTION --- */}
+        {/* --- NEW YEAR GREETING SECTION (WITH FIREWORKS) --- */}
         <GreetingSection />
 
         {/* --- FOOTER SECTION --- */}
@@ -505,7 +521,60 @@ export default function ScallopJourney() {
   );
 }
 
-// --- NEW YEAR GREETING COMPONENT ---
+// --- FIREWORKS COMPONENT ---
+const Fireworks = () => {
+  const [particles, setParticles] = useState<any[]>([]);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      const id = Math.random();
+      const x = Math.random() * 100;
+      const y = Math.random() * 80 + 10;
+      const color = ['#22d3ee', '#a78bfa', '#f472b6', '#34d399'][Math.floor(Math.random() * 4)];
+
+      const newParticles = Array.from({ length: 12 }).map((_, i) => ({
+        id: id + i,
+        x: x,
+        y: y,
+        angle: (i / 12) * 360,
+        color: color
+      }));
+
+      setParticles(prev => [...prev, ...newParticles]);
+
+      setTimeout(() => {
+        setParticles(prev => prev.filter(p => p.id < id));
+      }, 1500);
+
+    }, 800);
+
+    return () => clearInterval(interval);
+  }, []);
+
+  return (
+    <div className="absolute inset-0 pointer-events-none z-20 overflow-hidden">
+      <AnimatePresence>
+        {particles.map((p) => (
+          <motion.div
+            key={p.id}
+            initial={{ opacity: 1, x: `${p.x}%`, y: `${p.y}%`, scale: 0 }}
+            animate={{ 
+              opacity: 0, 
+              x: `calc(${p.x}% + ${Math.cos(p.angle * (Math.PI / 180)) * 100}px)`, 
+              y: `calc(${p.y}% + ${Math.sin(p.angle * (Math.PI / 180)) * 100}px)`,
+              scale: 1 
+            }}
+            transition={{ duration: 1.2, ease: "easeOut" }}
+            style={{ backgroundColor: p.color }}
+            className="absolute w-1.5 h-1.5 rounded-full shadow-[0_0_10px_currentColor]"
+          />
+        ))}
+      </AnimatePresence>
+    </div>
+  );
+};
+
+// --- GREETING SECTION ---
 function GreetingSection() {
   return (
     <motion.div 
@@ -517,6 +586,9 @@ function GreetingSection() {
     >
       <div className="relative rounded-3xl overflow-hidden border border-white/10 shadow-2xl bg-[#0a192f]/60 backdrop-blur-xl p-8 md:p-12 group">
         
+        {/* FIREWORKS ANIMATION */}
+        <Fireworks />
+
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
            <Image 
@@ -651,7 +723,7 @@ function SocialFooter() {
     },
     {
       name: "Discord",
-      url: "https://discord.gg/HKsy2mHmuQ",
+      url: "https://discord.gg/scallop",
       icon: <path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028 14.09 14.09 0 0 0 1.226-1.994.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.419 0 1.334-.956 2.419-2.157 2.419zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.419 0 1.334-.946 2.419-2.157 2.419z"/>
     }
   ];
@@ -690,7 +762,7 @@ function SocialFooter() {
 
       {/* Copyright */}
       <div className="text-white/20 text-xs font-light">
-      
+        © 2025 Scallop. All rights reserved.
       </div>
     </div>
   );
